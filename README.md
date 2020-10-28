@@ -20,5 +20,8 @@ Data Sources:
 1. Opportunity Insights' [Opportunity Atlas](https://www.opportunityatlas.org/): Online database of anonymous data following 20 million Americans from childhood to mid-30s with the goal of identifying areas of the United States with best and worst social mobility.
 2. Baltimore Neighborhood Indicators Alliance [Vital Signs Open Data Portal](https://vital-signs-bniajfi.hub.arcgis.com): Community-based data points that give a snapshot of overall health and economic growth of a neighborhood.
 ### Data Analysis
-The multiple linear regression model below shows 
+Before delving into the prevalence of risk factors in each neighborhood, a multiple linear regression model identified the risk factors that were correlated with teenage pregnancy. 
+![Alt text](Multiple_Linear_Regression.png) 
+P-values below the stastical benchmark of 0.05 indicates that out of all risk factors in question, access to prenatal care, children living in poverty, and prevalance of domestic violence are the three variables that are statistically significant enough to influence teen pregnancy rates in a specific neighborhood. An overall R-squared value of 0.52, though not close to 1.0, proves that approximately half of the variation in teen pregnancy rates can be attributed to the influence of the statistically significant risk factors. The standard error value of 0.105 confirms the validity of the modeled regression line - actual data points fall close to the predictive trendline, so it is an accurate model to use when predicting teen pregnancy rate.
+![Alt text](Outcomes_Correlations.png)
 
