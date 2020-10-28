@@ -37,4 +37,8 @@ P-values below the stastical benchmark of 0.05 indicates that out of all risk fa
 ![Alt text](Outcomes_Correlations.png)
 Looking further into how the previously identified risk factors affect teen pregnancy, the following correlations between are observed: there is a relatively strong negative correlation between teen pregnancy and access to prenatal care - the higher the percentage of mothers who received prenatal care, the lower the teen pregnancy rate. There is a weak negative correlation between teen pregnancy and children living in poverty. Although this negative correlation is negligible, it suggests the neighborhoods with higher percentages of children living in poverty may actually have lower teen pregnancy rates. This contradicts previous research showing higher teen pregnancy rates in low-income neighborhoods. The explanation for this discrepancy can be found within the dataset parameters specified above: the percentage of children below poverty was computed using the poverty threshold value of all households in each neighborhood. Thus, in neighborhoods where the poverty threshold value was low, a smaller percentage of children were considered to be living below the poverty line, even though the neighborhood was low-income compared to the rest of the city. Lastly, there is a strong positive correlation between teen pregnancy and domestic violence - the higher the prevalence of domestic vioelnce reports, the hgiher the teen pregnancy rate. 
 
+#### Identifying High-Risk Neighborhoods with Cluster Analysis
+![Alt text](Baltimore_Clusters_Graphic.png)
+
+
 
