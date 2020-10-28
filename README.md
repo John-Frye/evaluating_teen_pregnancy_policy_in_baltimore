@@ -39,9 +39,12 @@ Looking further into how the previously identified risk factors affect teen preg
 
 #### Identifying High-Risk Neighborhoods with Cluster Analysis
 ![Alt text](Cluster_Analysis_Table.png)
-High-risk neighborhoods in Cluster 3, including Harlem Park, Allendale, and Frankford, have higher than average teen pregnancy rates, lower access to prenatal care, higher child poverty rates, and higher domestic violence rates. Low-risk neighborhoods in Cluster 4, including Fells Point, Homeland, and South Baltimore, have lower than average teen pregnancy rates, higher access to prenatal care, lower child poverty rates, and lower domestic violence rates. 
+High-risk neighborhoods in Cluster 2, including Harlem Park, Allendale, and Frankford, have higher than average teen pregnancy rates, lower access to prenatal care, higher child poverty rates, and higher domestic violence rates. Low-risk neighborhoods in Cluster 4, including Fells Point, Homeland, and South Baltimore, have lower than average teen pregnancy rates, higher access to prenatal care, lower child poverty rates, and lower domestic violence rates. 
 ![Alt text](Baltimore_Clusters_Graphic.png) 
-The distribution of high-risk neighborhoods on this map  
+High-risk neighborhoods, as shown in this map, are almost exclusively within the boundaries of the "Black Butterfly." This confirms that the demographic experiencing disparities and at the highest risk for the rise in teen pregnancy are, indeed, low-income, Black populations. These populations reside within the communities that lack prenatal healthcare services, struggle with higher than average household poverty, and report higher than average domestic violence rates. Thus, in order to design policies to reduce teenage pregnancy rates in the city, policy makers need to target social needs of these high-risk neighborhoods.
+
+### Policy Recommendations and Next Steps
+
 
 
 
