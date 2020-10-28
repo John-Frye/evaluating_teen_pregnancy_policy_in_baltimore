@@ -13,4 +13,4 @@ What are the risk factors of teenage pregnancy in Baltimore, and how can the cit
 ### Data Questions and Sources 
 Using [Opportunity Atlas](https://www.opportunityatlas.org/) data on the relationship between income and race ditribution in Baltimore, the demographic with the highest teen pregnancy rate was low-income, Black populations in neighborhoods within the "Black Butterfly," the eastern and western regions of the city with high precentages of Black residents and low economic growth.
 ![Alt text](Demographic_Bar_Chart.png) ![Alt text](Black_Butterfly.png)
-PoIs there a relationship between sociocultural risk factors of teen pregnancy, specifically access to prenatal 
+With existing data confirming drastically higher teen pregnancy rates in low-income, Black neighborhoods of the city, which sociocutural factors further influence 
