@@ -43,7 +43,7 @@ High-risk neighborhoods in Cluster 2, including Harlem Park, Allendale, and Fran
 ![Alt text](Baltimore_Clusters_Graphic.png) 
 High-risk neighborhoods, as shown in this map, are almost exclusively within the boundaries of the "Black Butterfly." This confirms that the demographic experiencing disparities and at the highest risk for the rise in teen pregnancy are, indeed, low-income, Black populations. These populations reside within the communities that lack prenatal healthcare services, struggle with higher than average household poverty, and report higher than average domestic violence rates. Thus, in order to design policies to reduce teenage pregnancy rates in the city, policy makers need to target social needs of these high-risk neighborhoods.
 
-### Policy Recommendations and Next Steps
+# Policy Recommendations and Next Steps
 Baltimore's current implementation of the [Teen Pregnancy Prevention Initiative](https://health.baltimorecity.gov/node/170) is primarily focused on partnerships with community agencies, 
 
 
