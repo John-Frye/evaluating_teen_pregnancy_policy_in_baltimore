@@ -21,12 +21,12 @@ Data Sources:
 2. Baltimore Neighborhood Indicators Alliance [Vital Signs Open Data Portal](https://vital-signs-bniajfi.hub.arcgis.com): Community-based data points that give a snapshot of overall health and economic growth of a neighborhood.
 
 Defining Data Parameters: Each variable was categorized by census tract and neighborhood name.
-1. Teen Pregnancy Rate: percentage of pregnant women ages 13-19 
-2. Access to Prenatal Care: percentage of women who had access to prenatal care in the first trimester of pregnancy
+1. Teen Pregnancy Rate: rate of female teens aged 15-19 that gave birth per 1,000 females aged 15-19.
+2. Access to Prenatal Care: percentage of women who had access to prenatal care in the first trimester of pregnancy.
 3. Middle School Attendance: percentage of middle school students
 4. Children Living in Poverty: percentage of persons under age of 18 living in households where total income fell below the poverty threshold out of all children in households in the specific neighborhood.
-5. Juvenile Arrest Rate: number of persons aged 10 to 17 arrested per 1,000 juveniles
-6. Domestic Violence Rate: rate of calls to emergency 911 for domestic violence per 1,000 residents
+5. Juvenile Arrest Rate: number of persons aged 10 to 17 arrested per 1,000 juveniles.
+6. Domestic Violence Rate: rate of calls to emergency 911 for domestic violence per 1,000 residents.
 
 ### Data Analysis
 #### Relationship Between Teenage Pregnancy and Sociocultural Risk Factors
@@ -44,8 +44,7 @@ High-risk neighborhoods in Cluster 2, including Harlem Park, Allendale, and Fran
 High-risk neighborhoods, as shown in this map, are almost exclusively within the boundaries of the "Black Butterfly." This confirms that the demographic experiencing disparities and at the highest risk for the rise in teen pregnancy are, indeed, low-income, Black populations. These populations reside within the communities that lack prenatal healthcare services, struggle with higher than average household poverty, and report higher than average domestic violence rates. Thus, in order to design policies to reduce teenage pregnancy rates in the city, policy makers need to target social needs of these high-risk neighborhoods.
 
 # Policy Recommendations and Next Steps
-Baltimore's current implementation of the [Teen Pregnancy Prevention Initiative](https://health.baltimorecity.gov/node/170) is primarily focused on partnerships with community agencies, 
-
+Baltimore's current implementation of the [Teen Pregnancy Prevention Initiative](https://health.baltimorecity.gov/node/170) is primarily focused on partnerships with community agencies to engage with the youth, increase access to sexual health and family planning services, and maintaining a social media presence to encourage conversations about reproductive and sexual health. However, what this policy lacks is the 
 
 
 
