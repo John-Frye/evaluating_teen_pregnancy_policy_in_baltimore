@@ -72,6 +72,9 @@ To ensure that minors experiencing domestic violence are more likely to use thes
 
 Ultimately, policies specifically catered to the needs of each disadvantaged neighborhood in Baltimore would be the most effective approach to further curbing the rise in teen pregnancy rates in communities. Future data analysis into the efficacy of reproductive and sexual health education within the city's school system, use of contraceptives in youth populations, and percentage of sexually active youths by neighborhood would further identify the communities that lack healthcare infrastructure.
 
+## Error Analysis
+As described in the project, the metric for childhood poverty was relative to specific communities as opposed to the city as a whole. Furthermore, many of the census tracts in Baltimore lacked data for all of the variables in our analysis, which meant that they could not be included in either our linear regression or cluster analysis.
+
 ## Step-by-Step Instructions
 Step-by-step instructions for how we performed our data analysis [can be found here.](https://github.com/John-Frye/evaluating_teen_pregnancy_policy_in_baltimore/blob/main/Step_by_Step_Instructions_MidTerm.xlsx)
 
