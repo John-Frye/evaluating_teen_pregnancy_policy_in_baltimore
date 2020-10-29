@@ -25,7 +25,7 @@ Is there a relationship observed between teen pregnancy and access to prenatal c
 
 __Defining Data Parameters:__ Each variable was categorized by census tract and neighborhood name.
 
-1. __Teen Birth Rate:__ fraction of women who gave birth while between the ages of 13-19 
+1. __Teen Birth Rate:__ fraction of women who gave birth while between the ages of 13-19.
 2. __Access to Prenatal Care:__ percentage of women who had access to prenatal care in the first trimester of pregnancy.
 3. __Middle School Attendance:__ percentage of middle school aged students who actively attend middle school.
 4. __Children Living in Poverty:__ percentage of persons under age of 18 living in households where total income fell below the poverty threshold out of all children in households in the specific neighborhood.
