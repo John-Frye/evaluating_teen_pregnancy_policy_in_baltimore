@@ -27,7 +27,7 @@ __Defining Data Parameters:__ Each variable was categorized by census tract and 
 
 1. __Teen Birth Rate:__ fraction of women who gave birth while between the ages of 13-19 
 2. __Access to Prenatal Care:__ percentage of women who had access to prenatal care in the first trimester of pregnancy.
-3. __Middle School Attendance:__ percentage of middle school aged students who actively attend middle school
+3. __Middle School Attendance:__ percentage of middle school aged students who actively attend middle school.
 4. __Children Living in Poverty:__ percentage of persons under age of 18 living in households where total income fell below the poverty threshold out of all children in households in the specific neighborhood.
 5. __Juvenile Arrest Rate:__ number of persons aged 10 to 17 arrested per 1,000 juveniles.
 6. __Domestic Violence Rate:__ rate of calls to emergency 911 for domestic violence per 1,000 residents.
